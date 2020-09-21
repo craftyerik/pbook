@@ -1,3 +1,0 @@
-# psycho
-
-[readme](readme.md)
